@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface NGViewController : UIViewController
+- (IBAction)pressedButton;
 
 @end
