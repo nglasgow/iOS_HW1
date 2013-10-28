@@ -26,6 +26,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)toggleSwitch {
+    NSLog(@"Toggle Switched");
+}
+
 - (IBAction)pressedButton {
     NSLog(@"Good Job!");
 }

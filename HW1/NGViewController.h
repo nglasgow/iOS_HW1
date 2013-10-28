@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface NGViewController : UIViewController
+
+- (IBAction)toggleSwitch;
 - (IBAction)pressedButton;
 
 @end
